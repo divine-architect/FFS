@@ -27,6 +27,6 @@ This project is still heavily under development so do not try to encrypt very se
 - [ ] - OCR for password entry instead of a `.key` file
 
 ## Credits
-Face Recognition - https://github.com/thecodacus/Face-Recognition 
-Cryptography - https://pypi.org/project/cryptography/
+Face Recognition - https://github.com/thecodacus/Face-Recognition \
+Cryptography - https://pypi.org/project/cryptography/   \
 GUI - Tkinter
